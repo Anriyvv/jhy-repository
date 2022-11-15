@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/java-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/mca-tank/pom.xml" />
       </list>
     </option>
   </component>

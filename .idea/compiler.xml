@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java-basic" />
+        <module name="mca-tank" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java-basic" target="8" />
+      <module name="mca-tank" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
